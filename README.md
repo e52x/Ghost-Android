@@ -5,7 +5,7 @@
 
 # Install Di Termux
 
-• pkg update && pkg upgrade
+> pkg update && pkg upgrade
 
 • pkg install python
 
