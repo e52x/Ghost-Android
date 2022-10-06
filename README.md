@@ -25,3 +25,19 @@
 
 
 # Untuk  Di Kali Linux 
+
+> sudo apt update && upgrade
+
+> sudo apt install python
+
+> sudo apt install git
+
+> sudo apt install adb
+
+> pip3 install -r requirements.txt
+
+> git clone https://github.com/e52x/Ghost-Android
+
+> cd android 
+
+> python3 setan.py
