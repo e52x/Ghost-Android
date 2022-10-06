@@ -3,7 +3,7 @@
 
 
 
-# Install Di Termux
+# Untuk Di Termux
 
 > pkg update && pkg upgrade
 
@@ -13,7 +13,8 @@
 
 > pkg install android-tools
 
-• pkg install adb 
+> pkg install adb 
+
 > git clone https://github.com/e52x/Ghost-Android
 
 > pip3 install -r requirements.txt
@@ -21,3 +22,6 @@
 > cd Android
 
 > python setan.py
+
+
+# Untuk  Kali linux 
