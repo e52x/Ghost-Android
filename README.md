@@ -13,6 +13,7 @@
 
 > pkg install android-tools
 
+• pkg install adb 
 > git clone https://github.com/e52x/Ghost-Android
 
 > pip3 install -r requirements.txt
