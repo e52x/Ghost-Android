@@ -3,7 +3,7 @@
 
 
 
-# Untuk Di Termux
+# Untuk Di Termux 
 
 > pkg update && pkg upgrade
 
