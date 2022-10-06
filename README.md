@@ -1,7 +1,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/73192109/194233298-09013ed6-515a-49f5-946e-ca3c0198a18c.png)
+
 
 
 # Untuk Di Termux 
