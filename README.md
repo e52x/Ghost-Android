@@ -15,7 +15,7 @@
 
 > git clone https://github.com/e52x/Ghost-Android
 
-> pip install -r requirements.txt
+> pip3 install -r requirements.txt
 
 > cd Android
 
