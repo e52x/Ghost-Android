@@ -1,9 +1,9 @@
- Ghost-Android
 
 
 
 
-Install Di Termux
+
+# Install Di Termux
 
 • pkg update && pkg upgrade
 
