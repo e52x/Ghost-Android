@@ -24,4 +24,4 @@
 > python setan.py
 
 
-# Untuk  Kali linux 
+# Untuk  Di Kali Linux 
