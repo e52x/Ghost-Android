@@ -18,9 +18,9 @@
 
 > git clone https://github.com/e52x/Ghost-Android
 
-> pip3 install -r requirements.txt
+> cd Ghost-Android
 
-> cd Android
+> pip3 install -r requirements.txt
 
 > python setan.py
 
@@ -35,10 +35,11 @@
 
 > sudo apt install adb
 
-> pip3 install -r requirements.txt
 
 > git clone https://github.com/e52x/Ghost-Android
 
-> cd android 
+> cd Ghost-Android
+
+> pip3 install -r requirements.txt
 
 > python3 setan.py
